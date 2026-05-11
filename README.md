@@ -41,8 +41,51 @@ The dashboard was designed with a focus on:
 
 ## 🎥 Dashboard Preview
 
-> Dashboard preview will be added soon.
+<div align="center">
 
+<img src="assets/dashboard-demo.gif" width="100%">
+
+</div>
+
+---
+
+## 📸 Dashboard Overview
+
+<div align="center">
+
+<img src="assets/dashboard-overview.jpeg" width="85%">
+
+</div>
+
+---
+
+## 📈 KPI Analysis
+
+<div align="center">
+
+<img src="assets/kpi-analysis.JPG" width="85%">
+
+</div>
+
+---
+
+## 🌎 Regional Performance Analysis
+
+<div align="center">
+
+<img src="assets/regional-analysis.JPG" width="85%">
+
+</div>
+
+---
+
+## 😊 Customer Satisfaction Analysis
+
+<div align="center">
+
+<img src="assets/customer-satisfaction.JPG" width="85%">
+
+</div>
 ---
 
 ## 📚 Learning Objectives
