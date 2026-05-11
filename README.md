@@ -86,6 +86,17 @@ The dashboard was designed with a focus on:
 <img src="assets/customer-satisfaction.JPG" width="85%">
 
 </div>
+
+---
+
+## 📊 Business Insights
+
+- Identified regional revenue concentration trends
+- Monitored KPI performance against strategic goals
+- Analyzed customer satisfaction metrics using NPS indicators
+- Explored category performance and sales behavior over time
+- Built interactive analytics for data-driven decision-making
+
 ---
 
 ## 📚 Learning Objectives
